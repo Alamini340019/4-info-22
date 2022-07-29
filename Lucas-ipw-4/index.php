@@ -106,8 +106,22 @@
 					<li>
 						<a href="?dir=4_array&file=1_array">01</a>
 					</li>
-					 <li>
-						<a href="?dir=4_array&file=associativo">02</a>
+				</ul>
+		</div>
+		</div>
+				<div class="row-md-4 p-2">
+			<div class= "  modulo verde-escuro">
+	<h3 class="p-2"> 5 PDO </h3>
+				<ul>	
+
+					<li>
+						<a href="?dir=5_PDO&file=01">PDO 01</a>
+					</li>
+					<li>
+						<a href="?dir=5_PDO&file=2_trycatch">PDO 02</a>
+					</li>
+					<li>
+						<a href="?dir=5_PDO&file=3 PDO">PDO 03</a>
 					</li>
 				</ul>
 		</div>
